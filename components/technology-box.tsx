@@ -2,7 +2,7 @@ interface TechnologyBoxProps {
     data: {
         id: number,
         title: string,
-        description: string
+        description: string | JSX.Element
     }
 }
 
