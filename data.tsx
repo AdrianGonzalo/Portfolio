@@ -106,6 +106,24 @@ export const dataPortfolio = [
     urlGithub: "https://github.com/AdrianGonzalo/Memaso",
     urlDemo: "https://github.com/AdrianGonzalo/Memaso",
   },
+  {
+    id: 5,
+    title: "Artesania",
+    image: "/artesania.png",
+    description:
+      "Con este aparente simple proyecto quiero mostrar mi capacidad para crear y usar animaciones con librerias de React/JavaScript",
+    urlGithub: "https://github.com/AdrianGonzalo/Artesania-con-Corazon",
+    urlDemo: "https://artesaniadecorazon.netlify.app/",
+  },
+  {
+    id: 6,
+    title: "PortFolio",
+    image: "/portfolio.png",
+    description:
+      "Mi portfolio personal, donde tengo todos mis proyectos, habilidades y contacto, he usado tecnologia como React, Nextjs, Tailwind y Framer Motion para las particulas",
+    urlGithub: "https://github.com/AdrianGonzalo/Artesania-con-Corazon",
+    urlDemo: "https://portfolio-adrian-martin-gonzalo.netlify.app/",
+  },
 ];
 
 export const dataTechnology = [
