@@ -121,7 +121,7 @@ export const dataPortfolio = [
     image: "/portfolio.png",
     description:
       "Mi portfolio personal, donde tengo todos mis proyectos, habilidades y contacto, he usado tecnologia como React, Nextjs, Tailwind y Framer Motion para las particulas",
-    urlGithub: "https://github.com/AdrianGonzalo/Artesania-con-Corazon",
+    urlGithub: "https://github.com/AdrianGonzalo/Portfolio",
     urlDemo: "https://portfolio-adrian-martin-gonzalo.netlify.app/",
   },
 ];
