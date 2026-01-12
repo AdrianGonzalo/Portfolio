@@ -90,21 +90,21 @@ export const dataPortfolio = [
   },
   {
     id: 3,
-    title: "Super-MarioCulé-Bros",
-    image: "/mario.png",
+    title: "Colorist - Web",
+    image: "/Colorist.png",
     description:
-      "Como buen fan de mario quise llevar mi passion a otro nivel recreandolo con JavaScript. Para ello utilize el motor de desarrollo Phaser, que me permitio integrar las mecanicas y animaciones",
-    urlGithub: "https://github.com/AdrianGonzalo/Super-MarioCule-Bros",
-    urlDemo: "https://github.com/AdrianGonzalo/Super-MarioCule-Bros",
+      "Primer proyecto serio para un cliente que es colorista, trata de un portfolio/curriculum con sus trabajos.",
+    urlGithub: "https://github.com/AdrianGonzalo/Colorist-Web",
+    urlDemo: "https://colorist-web-three.vercel.app/",
   },
   {
     id: 4,
-    title: "Memaso",
-    image: "/memaso.png",
+    title: "PortFolio",
+    image: "/portfolio.png",
     description:
-      "Este es mi primer proyecto personal, utilicé y creé componentes de JavaScript puro y me conecté a una API, su funcion es buscar gifs dependiendo del prompt que se introduzca.",
-    urlGithub: "https://github.com/AdrianGonzalo/Memaso",
-    urlDemo: "https://github.com/AdrianGonzalo/Memaso",
+      "Mi portfolio personal, donde tengo todos mis proyectos, habilidades y contacto, he usado tecnologia como React, Nextjs, Tailwind y Framer Motion para las particulas",
+    urlGithub: "https://github.com/AdrianGonzalo/Portfolio",
+    urlDemo: "https://portfolio-adrian-martin-gonzalo.netlify.app/",
   },
   {
     id: 5,
@@ -117,13 +117,23 @@ export const dataPortfolio = [
   },
   {
     id: 6,
-    title: "PortFolio",
-    image: "/portfolio.png",
+    title: "Super-MarioCulé-Bros",
+    image: "/mario.png",
     description:
-      "Mi portfolio personal, donde tengo todos mis proyectos, habilidades y contacto, he usado tecnologia como React, Nextjs, Tailwind y Framer Motion para las particulas",
-    urlGithub: "https://github.com/AdrianGonzalo/Portfolio",
-    urlDemo: "https://portfolio-adrian-martin-gonzalo.netlify.app/",
-  },
+      "Como buen fan de mario quise llevar mi passion a otro nivel recreandolo con JavaScript. Para ello utilize el motor de desarrollo Phaser, que me permitio integrar las mecanicas y animaciones",
+    urlGithub: "https://github.com/AdrianGonzalo/Super-MarioCule-Bros",
+    urlDemo: "https://github.com/AdrianGonzalo/Super-MarioCule-Bros",
+  }
+  ,
+  {
+    id: 7,
+    title: "Memaso",
+    image: "/memaso.png",
+    description:
+      "Este es mi primer proyecto personal, utilicé y creé componentes de JavaScript puro y me conecté a una API, su funcion es buscar gifs dependiendo del prompt que se introduzca.",
+    urlGithub: "https://github.com/AdrianGonzalo/Memaso",
+    urlDemo: "https://github.com/AdrianGonzalo/Memaso",
+  }
 ];
 
 export const dataTechnology = [
